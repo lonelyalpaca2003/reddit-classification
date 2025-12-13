@@ -11,3 +11,4 @@ wheels/
 *.csv
 *.parquet
 *.ipynb_checkpoints
+*.env
