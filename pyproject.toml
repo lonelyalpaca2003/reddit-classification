@@ -13,6 +13,7 @@ dependencies = [
     "pandas>=2.3.3",
     "praw>=7.8.1",
     "pyarrow>=22.0.0",
+    "pydantic>=2.12.5",
     "ray>=2.52.1",
     "scikit-learn>=1.8.0",
     "seaborn>=0.13.2",
